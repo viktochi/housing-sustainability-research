@@ -1,5 +1,5 @@
-Title: The Sustainability of Affordable Housing in San Francisco
-Research Scope:
+# Title: The Sustainability of Affordable Housing in San Francisco
+## Research Scope:
 The U.S. Department of Housing and Urban Development (HUD) initiated a series of measures
 during the 1970s in response to mounting criticisms regarding the role of assisted housing
 projects in perpetuating residential segregation. A seminal study titled "Assisted Housing and
