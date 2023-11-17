@@ -8,6 +8,7 @@ measures by scrutinizing the influence of race and ethnicity in the development 
 housing during the 1980s. The study revealed that despite HUD's concerted efforts, indicators
 such as poverty rates and minority concentration continued to exert a significant influence on
 the planning and execution of certain categories of assisted housing projects.
+
 It is imperative to delve deeper into the disparities inherent in the realm of affordable housing
 initiatives. Diverse programs exist, encompassing project-based affordable housing projects and
 market-rate housing developments, with a fundamental determinant of "affordability" being the
@@ -19,6 +20,7 @@ of Chicago (Talen & Koschinsky, 2010) revealed that, on average, affordable hous
 were situated in communities characterized by enhanced sustainability attributes, including
 heightened walkability and accessibility. However, it is essential to underscore that certain
 programmatic categories did not conform to this pattern.
+
 Our collective objectives, as a research team, are twofold: firstly, to build upon the foundational
 research conducted in the aforementioned studies, and secondly, to cultivate a more nuanced
 comprehension of how both infrastructural elements and the socio-economic milieu of
